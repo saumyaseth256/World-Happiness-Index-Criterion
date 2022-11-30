@@ -1,4 +1,4 @@
-The Happiness Report
+# The Happiness Report
 
 The World Happiness Report is a publication of the United Nations Sustainable Development Solutions Network. It contains articles and rankings of national happiness, based on respondent ratings of their own lives, which the report also correlates with various (quality of) life factors.
 
