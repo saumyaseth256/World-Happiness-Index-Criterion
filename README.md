@@ -7,7 +7,8 @@ The rankings of national happiness are based on a Cantril ladder survey. Nationa
 In the reports, experts in fields including economics, psychology, survey analysis, and national statistics, describe how measurements of well-being can be used effectively to assess the progress of nations, and other topics. Each report is organized by chapters that delve deeper into issues relating to happiness, including mental illness, the objective benefits of happiness, the importance of ethics, policy implications, and links with the Organisation for Economic Co-operation and Development's (OECD) approach to measuring subjective well-being and other international and national efforts.
 
 As far as the scope of this project is concerned, we will take the data relating to the following factors in account and try to gather inferences through charts, graphs and other tools of data analysis.
-	•	Mental health
-	•	Crime
+
+- Mental health
+- Crime
 	
 Through this project, we aim to examine the relation between the above mentioned factors and the happiness score.
